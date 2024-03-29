@@ -6,7 +6,7 @@ User Authentication: Secure login system for authorized users.
 Product Management: Add, edit, and delete products from the inventory.
 Point of Sale: Perform sales transactions, calculate total amounts, and generate receipts.
 Inventory Management: Track product quantities, update stock levels, and receive notifications for low stock items.
-Reporting: Generate sales reports, view transaction history, and export data to Excelsheet format.
+Reporting: Generate sales reports, view transaction history, and export data to XlsX format.
 
 
 ![1](https://github.com/voidumesha/Point-of-Sale-POS-System-in-Java/assets/111561408/e4f4ca36-45de-4b47-ba98-249156b8baaa)
